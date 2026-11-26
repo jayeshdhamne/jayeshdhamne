@@ -165,7 +165,6 @@ timeline
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jayeshdhamne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshdhamne&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub streak" />
 
 </div>
 
