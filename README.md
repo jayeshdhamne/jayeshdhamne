@@ -168,7 +168,7 @@ timeline
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayeshdhamne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&custom_title=Jayesh's%20GitHub%20Stats" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jayeshdhamne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff" alt="GitHub stats" />
 
 </td>
 <td width="50%">
