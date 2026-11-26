@@ -158,17 +158,32 @@ timeline
 - 🛡️ **Reliability:** retries, error handling, execution logging and monitoring built into every workflow
 - 📊 **Data pipelines:** ETL/ELT with PySpark, Airflow and Azure Databricks
 
----
+<!-- GitHub Analytics -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 **GitHub Analytics**
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayeshdhamne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshdhamne&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=jayeshdhamne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&custom_title=Jayesh's%20GitHub%20Stats" alt="GitHub Stats" />
 
-</div>
+</td>
+<td width="50%">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshdhamne&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakLabel=6A5ACD" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshdhamne&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6A5ACD&line=FF6B6B&point=FFFFFF&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph"/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=jayeshdhamne&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 ---
 
 ## 📫 Let's Connect
